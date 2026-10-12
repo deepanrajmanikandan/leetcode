@@ -13,6 +13,7 @@ AI & Data Science student passionate about programming and problem-solving.
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/deepanrajmanikandan/leetcode/tree/master/0292-nim-game) |
 | [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/deepanrajmanikandan/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2652-sum-multiples](https://github.com/deepanrajmanikandan/leetcode/tree/master/2652-sum-multiples) |
@@ -33,4 +34,24 @@ AI & Data Science student passionate about programming and problem-solving.
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/deepanrajmanikandan/leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/deepanrajmanikandan/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/deepanrajmanikandan/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/deepanrajmanikandan/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/deepanrajmanikandan/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
