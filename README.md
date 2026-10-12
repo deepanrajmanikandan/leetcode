@@ -16,6 +16,7 @@ AI & Data Science student passionate about programming and problem-solving.
 | [0292-nim-game](https://github.com/deepanrajmanikandan/leetcode/tree/master/0292-nim-game) |
 | [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/deepanrajmanikandan/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2469-convert-the-temperature](https://github.com/deepanrajmanikandan/leetcode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/deepanrajmanikandan/leetcode/tree/master/2652-sum-multiples) |
 ## Database
 |  |
