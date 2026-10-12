@@ -14,4 +14,5 @@ AI & Data Science student passionate about programming and problem-solving.
 |  |
 | ------- |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/deepanrajmanikandan/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2652-sum-multiples](https://github.com/deepanrajmanikandan/leetcode/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
