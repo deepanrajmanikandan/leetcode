@@ -18,5 +18,6 @@ AI & Data Science student passionate about programming and problem-solving.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/deepanrajmanikandan/leetcode/tree/master/0175-combine-two-tables) |
 | [0620-not-boring-movies](https://github.com/deepanrajmanikandan/leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
