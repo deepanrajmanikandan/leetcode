@@ -13,6 +13,7 @@ AI & Data Science student passionate about programming and problem-solving.
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/deepanrajmanikandan/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2652-sum-multiples](https://github.com/deepanrajmanikandan/leetcode/tree/master/2652-sum-multiples) |
 ## Database
@@ -20,4 +21,16 @@ AI & Data Science student passionate about programming and problem-solving.
 | ------- |
 | [0175-combine-two-tables](https://github.com/deepanrajmanikandan/leetcode/tree/master/0175-combine-two-tables) |
 | [0620-not-boring-movies](https://github.com/deepanrajmanikandan/leetcode/tree/master/0620-not-boring-movies) |
+## Array
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
