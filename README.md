@@ -27,6 +27,7 @@ AI & Data Science student passionate about programming and problem-solving.
 ## Array
 |  |
 | ------- |
+| [0896-monotonic-array](https://github.com/deepanrajmanikandan/leetcode/tree/master/0896-monotonic-array) |
 | [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
