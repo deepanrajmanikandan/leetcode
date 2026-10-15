@@ -14,6 +14,7 @@ AI & Data Science student passionate about programming and problem-solving.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/deepanrajmanikandan/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/deepanrajmanikandan/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/deepanrajmanikandan/leetcode/tree/master/0292-nim-game) |
 | [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/deepanrajmanikandan/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
