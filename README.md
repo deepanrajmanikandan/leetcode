@@ -18,6 +18,7 @@ AI & Data Science student passionate about programming and problem-solving.
 | [0292-nim-game](https://github.com/deepanrajmanikandan/leetcode/tree/master/0292-nim-game) |
 | [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/deepanrajmanikandan/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/deepanrajmanikandan/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/deepanrajmanikandan/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2469-convert-the-temperature](https://github.com/deepanrajmanikandan/leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/deepanrajmanikandan/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -33,6 +34,7 @@ AI & Data Science student passionate about programming and problem-solving.
 | ------- |
 | [0896-monotonic-array](https://github.com/deepanrajmanikandan/leetcode/tree/master/0896-monotonic-array) |
 | [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/deepanrajmanikandan/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
