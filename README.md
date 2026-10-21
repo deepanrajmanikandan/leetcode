@@ -32,12 +32,14 @@ AI & Data Science student passionate about programming and problem-solving.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deepanrajmanikandan/leetcode/tree/master/0001-two-sum) |
 | [0896-monotonic-array](https://github.com/deepanrajmanikandan/leetcode/tree/master/0896-monotonic-array) |
 | [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/deepanrajmanikandan/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deepanrajmanikandan/leetcode/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
