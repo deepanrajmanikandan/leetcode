@@ -17,6 +17,7 @@ AI & Data Science student passionate about programming and problem-solving.
 | [0263-ugly-number](https://github.com/deepanrajmanikandan/leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/deepanrajmanikandan/leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/deepanrajmanikandan/leetcode/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/deepanrajmanikandan/leetcode/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/deepanrajmanikandan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/deepanrajmanikandan/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/deepanrajmanikandan/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -78,4 +79,16 @@ AI & Data Science student passionate about programming and problem-solving.
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/deepanrajmanikandan/leetcode/tree/master/0367-valid-perfect-square) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/deepanrajmanikandan/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/deepanrajmanikandan/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/deepanrajmanikandan/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
